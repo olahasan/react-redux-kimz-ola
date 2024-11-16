@@ -57,6 +57,7 @@ Otherwise, all links will open in the same tab.
  ## Screenshot
  
 ![Screenshot](./public/pic.png)
+![Screenshot](./public/pic1.png)
 
 
 ### Author
